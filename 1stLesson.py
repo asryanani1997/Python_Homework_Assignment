@@ -1,0 +1,1 @@
+print("The first lesson was dedicated to instaling Python and VS code")
