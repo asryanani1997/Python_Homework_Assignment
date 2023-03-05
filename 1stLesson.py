@@ -1,1 +1,1 @@
-print("The first lesson was dedicated to instaling Python and VS code")
+print("The first lesson was dedicated to installing Python and VS code")
