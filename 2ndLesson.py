@@ -1,0 +1,1 @@
+print("The second class was dedicated to installing some extensions such as Andromeda, File Utils, File Icons, etc. Afterwards, we completed a small task.")
