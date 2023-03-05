@@ -1,0 +1,1 @@
+print("During the third class we managed to create repositories and connect them to our local terminals")
